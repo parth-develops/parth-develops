@@ -46,4 +46,4 @@
 <a href="mailto:pumrania9@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-⭐️ From [Parth](https://github.com/AVS1508)
+⭐️ From [Parth](https://github.com/Captain-Parth)
