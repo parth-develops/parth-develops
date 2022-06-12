@@ -41,7 +41,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="www.linkedin.com/in/parth-umrania"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="www.linkedin.com/in/parth-umrania"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Parth_Umrania-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/parth_codes/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-parth_codes-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:pumrania9@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-pumrania9@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
