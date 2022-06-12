@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing Web solutions and quick hacks.
 - 🎓 &nbsp; Studied Computer Engineering at GIDC Degree Engineering College, Navsari.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
+- 💼 &nbsp; Aspiring Front-end Developer.
 - 🌱 &nbsp; Learning more about Web Development.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
