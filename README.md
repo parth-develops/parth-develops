@@ -7,7 +7,7 @@
 - 💼 &nbsp; Aspiring Front-end Developer.
 - 🌱 &nbsp; Learning more about Web Development.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;Skills & Tools</h3>
 
 - 💻 &nbsp;
   ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
