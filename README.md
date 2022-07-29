@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing Web solutions and quick hacks.
-- 🎓 &nbsp; Studied Computer Engineering at GIDC Degree Engineering College, Navsari.
+- 🎓 &nbsp; Studied Computer Engineering at GIDC Degree Engineering College.
 - 💼 &nbsp; Aspiring Front-end Developer.
 - 🌱 &nbsp; Learning more about Web Development.
 
@@ -44,4 +44,4 @@
 <a href="mailto:pumrania9@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-⭐️ From [Parth](https://github.com/Captain-Parth)
+⭐️ From [Parth](https://github.com/parth-decodes)
