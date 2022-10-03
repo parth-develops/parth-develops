@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing Web solutions and quick hacks.
 - 🎓 &nbsp; Bachelors in Computer Engineering.
-- 💼 &nbsp; Aspiring Front-end Developer.
+- 💼 &nbsp; Front-end Developer.
 - 🌱 &nbsp; Learning more about Web Development.
 
 <h3> 🛠 &nbsp;Skills & Tools</h3>
