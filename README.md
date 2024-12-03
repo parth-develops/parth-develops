@@ -13,6 +13,7 @@
   <a href="https://www.typescriptlang.org/" target="_blank" style="text-decoration: none;"><img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" width="40" height="40" alt="typescript logo" /></a><img width="12" />
   <a href="https://react.dev/" target="_blank" style="text-decoration: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" /></a><img width="12" />
   <a href="https://nextjs.org/" target="_blank" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" /></a><img width="12" />
+  <a href="https://www.mongodb.com/" target="_blank" style="text-decoration: none;"><img src="https://img.icons8.com/?size=100&id=74402&format=png&color=000000" height="40" alt="mongodb logo" /></a><img width="12" />
   <a href="https://jquery.com/" target="_blank" style="text-decoration: none;"><img src="https://cdn.simpleicons.org/jquery/0769AD" height="40" alt="jquery logo" /></a><img width="12" />
   <a href="https://tailwindcss.com/" target="_blank" style="text-decoration: none;"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo" /></a><img width="12" />
   <a href="https://getbootstrap.com/" target="_blank" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo" /></a><img width="12" />
