@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Tech Stack:</h3>
+<h3 align="left">Tools & Tech:</h3>
 
 ###
 
