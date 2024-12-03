@@ -7,7 +7,7 @@
 ###
 
 <div align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="text-decoration: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" /></a><img width="12" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="text-decoration: none; margin-bottom:10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" /></a><img width="12" />
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="text-decoration: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" /></a><img width="12" />
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" /></a><img width="12" />
   <a href="https://react.dev/" target="_blank" style="text-decoration: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" /></a><img width="12" />
@@ -23,7 +23,7 @@
   <a href="https://git-scm.com/" target="_blank" style="text-decoration: none;"><img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo" /></a><img width="12" />
   <a href="https://github.com/" target="_blank" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" /></a><img width="12" />
   <a href="https://bitbucket.org/" target="_blank" style="text-decoration: none;"><img src="https://cdn.simpleicons.org/bitbucket/0052CC" height="40" alt="bitbucket logo" /></a><img width="12" />
-  <a href="https://code.visualstudio.com/" target="_blank" style="text-decoration: none;"><img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="vscode logo" /></a><img width="12" />
+  <a href="https://code.visualstudio.com/" target="_blank" style="text-decoration: none;"><img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" height="40" alt="vscode logo" /></a><img width="12" />
   <a href="https://vercel.com/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="40" alt="vercel logo" /></a>
 </div>
 
