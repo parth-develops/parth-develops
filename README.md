@@ -1,4 +1,4 @@
-<p align="center">Hey there! I'm all about merging design and function in the digital world. I'm a front-end enthusiast but also sail the full-stack seas. Spent over a couple of years diving deep into code, turning ideas into those 'wow' user interfaces.</p>
+<p align="center">Full-stack JavaScript developer utilizing React, Next.js, Tailwind, MongoDB, MYSQL to develop high-performance and efficient solutions. Experienced in implementing web security best practices, developing pixel perfect UI</p>
 
 ###
 
@@ -48,4 +48,4 @@
 </div>
 
 ###
-<p dir="auto"><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
+<p dir="auto"><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't directly reflect experience or skill level.</p>
