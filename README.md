@@ -1,4 +1,4 @@
-<p align="center">Full-stack JavaScript developer utilizing React, Next.js, Tailwind, MongoDB, MYSQL to develop high-performance and efficient solutions. Experienced in implementing web security best practices, developing pixel perfect UI</p>
+<p align="center">Full-stack JavaScript developer utilizing React, Next.js, Tailwind, MongoDB, and MYSQL to develop high-performance and efficient solutions. Experienced in implementing web security best practices, developing pixel perfect UI and optimizing performance of web apps.</p>
 
 ###
 
