@@ -49,4 +49,4 @@
 </div>
 
 ###
-<p dir="auto"><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't directly reflect experience or skill level.</p>
+<p dir="auto"><b>Note:</b> "Most used languages" shown in the stats is only a metric of the languages my public code consists of and doesn't directly reflect experience or skill level.</p>
