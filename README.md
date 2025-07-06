@@ -40,7 +40,3 @@ Full-stack JavaScript developer utilizing React, Next.js, Typescript, Tailwind, 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=parth-develops&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <p>Note: "Most used languages" shown in the stats is only a metric of the languages my public code consists of and doesn't directly reflect experience or skill level.</p>
----
-[![](https://visitcount.itsvg.in/api?id=parth-develops&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
